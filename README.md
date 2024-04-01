@@ -12,7 +12,7 @@ This blog post application made with React and JavaScript frameworks is useful b
 ## Accessing the Demo
 
 You can access the Blog Post demo application by visiting the following URL:
-- [Blog Post Demo]
+- [Blog Post Demo] https://sparkling-pavlova-af11af.netlify.app/
 
 ## Features
 
